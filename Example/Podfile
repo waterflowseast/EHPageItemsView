@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EHPageItemsView_Example' do
+  pod 'EHPageItemsView', :path => '../'
+
+  target 'EHPageItemsView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
