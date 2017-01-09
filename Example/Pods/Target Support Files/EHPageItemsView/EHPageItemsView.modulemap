@@ -1,0 +1,6 @@
+framework module EHPageItemsView {
+  umbrella header "EHPageItemsView-umbrella.h"
+
+  export *
+  module * { export * }
+}

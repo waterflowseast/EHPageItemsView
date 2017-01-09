@@ -1,0 +1,16 @@
+PODS:
+  - EHPageItemsView (0.1.0)
+
+DEPENDENCIES:
+  - EHPageItemsView (from `../`)
+
+EXTERNAL SOURCES:
+  EHPageItemsView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EHPageItemsView: 0d25703b298e028ba9fcb8751f8c87f55f6230c9
+
+PODFILE CHECKSUM: 6047477b4b85c0eb3e3c82d35e518fb2b3c77368
+
+COCOAPODS: 1.0.0
